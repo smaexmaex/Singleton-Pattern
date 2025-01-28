@@ -1,0 +1,6 @@
+Singleton Instanz erstellt!
+Singleton Methode aufgerufen!
+Speicheradresse des Singleton-Objekts: 1518976570865
+Singleton Methode aufgerufen!
+Speicheradresse des Singleton-Objekts: 1518976570865
+True
